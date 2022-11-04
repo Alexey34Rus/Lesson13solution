@@ -1,7 +1,8 @@
-package ru.spiridonov.springcourse;
+package ru.spiridonov.springcourse.genre;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
+import ru.spiridonov.springcourse.Music;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;

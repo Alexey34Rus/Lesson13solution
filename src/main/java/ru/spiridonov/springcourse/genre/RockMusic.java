@@ -1,6 +1,7 @@
-package ru.spiridonov.springcourse;
+package ru.spiridonov.springcourse.genre;
 
 import org.springframework.stereotype.Component;
+import ru.spiridonov.springcourse.Music;
 
 /**
  * @author Neil Alishev
