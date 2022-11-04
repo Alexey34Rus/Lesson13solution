@@ -10,7 +10,7 @@ import javax.annotation.PreDestroy;
  * @author Neil Alishev
  */
 
-@Component
+
 
 public class ClassicalMusic implements Music {
 
